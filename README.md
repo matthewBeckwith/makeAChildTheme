@@ -22,15 +22,15 @@ Don't be frightened though, I've already made the files for you and they are in 
 ...* style.css
 \n
 And its the style.css file you want to open.  Clone this Repo, and lets get started... I'll wait...\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
+..
+..
+..
+..
+..
+..
+..
+..
+..
 Ok. Looks like we're ready...\n
 At the top of this document is a section completely commented out.  Leave it that way.\n
 \n
