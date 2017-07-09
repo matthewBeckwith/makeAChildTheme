@@ -15,7 +15,7 @@ Either way, setup is the same.  You can use something like XAMPP or anything tha
 > ### Open Your Editor! ###
 > ---
 
-I want you to read that like its epic.  Like, "Start Your Engines!". Anyway...
+*I want you to read that like its epic.  Like, "Start Your Engines!". Anyway...*
 
 Don't be frightened though, I've already made the files for you and they are in the Repository.  The file is "Child Theme", and in it are two files:
 * functions.php
