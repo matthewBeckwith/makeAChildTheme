@@ -13,8 +13,8 @@ I like to have two installations, one for development, and a live one, usually s
 Either way, setup is the same.  You can use something like XAMPP or anything that can serve files locally for testing and there are setups in AWS or similar server environments that can get your live site up and running and will have instructions there.  In the case of who this is actually for, his environment is already setup, and I can actually skip this part and... I'm going to.  ...I'm sorry.  To be honest, I just kind of wanted to make him read all of this for no reason.  Also, I thought having multiple sections in my README could be fun!
 
 > ### Open Your Editor! ###
-> <small>*I want you to read that like its epic.  Like, "Start Your Engines!". Anyway...*</small>
 > ---
+<small>*I want you to read that like its epic.  Like, "Start Your Engines!". Anyway...*</small>
 
 Don't be frightened though, I've already made the files for you and they are in the Repository.  The file is "Child Theme", and in it are two files:
 * functions.php
