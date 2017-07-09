@@ -1,5 +1,4 @@
 # How to Make a Child Theme in WordPress #
----
 
 > ### Why a Child Theme
 > ---
